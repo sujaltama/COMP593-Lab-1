@@ -1,2 +1,2 @@
-print("Now is better than never.")
+"Now is better than never."
 print("Readability counts.")
